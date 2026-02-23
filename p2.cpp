@@ -9,9 +9,13 @@ int main() { //mulai
     cout << "Masukan Panjang : ";
     cin >> p;
 
-     //langkah 3
+    //langkah 3
     cout << "Masukan Lebar : ";
     cin >> l;
+
+     //langkah 4
+    luas = p * l;
+
     
 
 
